@@ -1,2 +1,2 @@
 # R6AccountSwitcher
- 
+ This is used for Ubisoft Connect accounts when a user has two accounts and needs to switch between them. Download the main.exe file and run it to fix issues when switching accounts. After running main.exe, verify the integrity of the game files in Steam for Rainbow Six Siege by right-clicking the name of the game, clicking on properties, installed files, and verify integrity of game files. This will fix any issue with Ubisoft Connect asking for an activation key when switching between accounts for Rainbow Six Siege.
