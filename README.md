@@ -1,2 +1,5 @@
 # R6AccountSwitcher
  This is used for Ubisoft Connect accounts when a user has two accounts and needs to switch between them. Download the main.exe in the dist folder and run it to fix issues when switching accounts. After running main.exe, verify the integrity of the game files in Steam for Rainbow Six Siege by right-clicking the name of the game, clicking on properties, installed files, and verify integrity of game files. This will fix any issue with Ubisoft Connect asking for an activation key when switching between accounts for Rainbow Six Siege.
+
+ **IMPORTANT**
+ This will only work if there are two folders in the Ubisoft Connect folder named cache and backup_cache. In order to set these folders up, first login into one account and then go to "C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher" in order to rename the folder to backup_cache. Then login into the other account and Ubisoft Connect will automatically generate a new cache folder. Once this is done, the account switcher will work when switching between accounts.
